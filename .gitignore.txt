@@ -1,0 +1,9 @@
+dataset/
+*.pth
+*.pt
+*.h5
+.env
+__pycache__/
+.idea/
+*.csv
+*.xlsx
